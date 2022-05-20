@@ -1,5 +1,5 @@
 {
-  "commit": "d3c5cef62cce8c386c11f2bdcddea7294ed8bee4",
+  "commit": "95e4fc1a8ac363ac625d96cb49595df861ef3d1f",
   "minecraft": [
     {
       "id": "1.19-pre1",
@@ -2426,6 +2426,30 @@
       }
     },
     {
+      "id": "1.16_combat-4",
+      "file_id": "1_16_combat-4",
+      "release_time": "2020-08-19T11:14:58+00:00",
+      "sha1": "568d49f86dcb8b523dfa2ea8cafbd8ab4d3e0b8d",
+      "jars": {
+        "client": {
+          "version_id": "1.16_combat-4",
+          "version_file_id": "1_16_combat-4",
+          "version_release_time": "2020-08-19T11:14:58+00:00",
+          "key": "client",
+          "sha1": "0d4f92e7cc264f251f65677b1b078c8bc3f0959c",
+          "url": "https://launcher.mojang.com/v1/objects/0d4f92e7cc264f251f65677b1b078c8bc3f0959c/client.jar"
+        },
+        "server": {
+          "version_id": "1.16_combat-4",
+          "version_file_id": "1_16_combat-4",
+          "version_release_time": "2020-08-19T11:14:58+00:00",
+          "key": "server",
+          "sha1": "f7e28154b5927d0761d0c7bc5dff4a1263f33109",
+          "url": "https://launcher.mojang.com/v1/objects/f7e28154b5927d0761d0c7bc5dff4a1263f33109/server.jar"
+        }
+      }
+    },
+    {
       "id": "1.16_combat-3",
       "file_id": "1_16_combat-3",
       "release_time": "2020-08-14T09:02:15+00:00",
@@ -2446,6 +2470,54 @@
           "key": "server",
           "sha1": "53c43fdae7d2ed01bbb31a82d99e31b9348e2a4b",
           "url": "https://launcher.mojang.com/v1/objects/53c43fdae7d2ed01bbb31a82d99e31b9348e2a4b/server.jar"
+        }
+      }
+    },
+    {
+      "id": "1.16_combat-2",
+      "file_id": "1_16_combat-2",
+      "release_time": "2020-08-13T11:56:30+00:00",
+      "sha1": "062fd9799d1927acf91aeb897cad847d6c72a645",
+      "jars": {
+        "client": {
+          "version_id": "1.16_combat-2",
+          "version_file_id": "1_16_combat-2",
+          "version_release_time": "2020-08-13T11:56:30+00:00",
+          "key": "client",
+          "sha1": "0fbf7624030e67904cc0fbe3df2dbf34369a690d",
+          "url": "https://launcher.mojang.com/v1/objects/0fbf7624030e67904cc0fbe3df2dbf34369a690d/client.jar"
+        },
+        "server": {
+          "version_id": "1.16_combat-2",
+          "version_file_id": "1_16_combat-2",
+          "version_release_time": "2020-08-13T11:56:30+00:00",
+          "key": "server",
+          "sha1": "464d3e619f3e8464e3974b4a6ea388911e31b2fc",
+          "url": "https://launcher.mojang.com/v1/objects/464d3e619f3e8464e3974b4a6ea388911e31b2fc/server.jar"
+        }
+      }
+    },
+    {
+      "id": "1.16_combat-1",
+      "file_id": "1_16_combat-1",
+      "release_time": "2020-08-12T14:07:25+00:00",
+      "sha1": "6d70ca3c1e835163d42b574b79ee1dfc22fd9af2",
+      "jars": {
+        "client": {
+          "version_id": "1.16_combat-1",
+          "version_file_id": "1_16_combat-1",
+          "version_release_time": "2020-08-12T14:07:25+00:00",
+          "key": "client",
+          "sha1": "3ad450f458149702ec3dd7655af44ab422a83e72",
+          "url": "https://launcher.mojang.com/v1/objects/3ad450f458149702ec3dd7655af44ab422a83e72/client.jar"
+        },
+        "server": {
+          "version_id": "1.16_combat-1",
+          "version_file_id": "1_16_combat-1",
+          "version_release_time": "2020-08-12T14:07:25+00:00",
+          "key": "server",
+          "sha1": "ee1c898661f5342d52c6e0cdee0bec99f3f60910",
+          "url": "https://launcher.mojang.com/v1/objects/ee1c898661f5342d52c6e0cdee0bec99f3f60910/server.jar"
         }
       }
     },
