@@ -1,11 +1,11 @@
 {
-  "commit": "b17984cf238508207a6e1b7a6474a4f76df9edb4",
+  "commit": "52c4be88b0e99bdedc3c9d8b2f7b0f02c29bb112",
   "minecraft": [
     {
       "id": "1.19.1",
       "file_id": "1.19.1",
       "release_time": "2022-07-27T09:25:33+00:00",
-      "sha1": "418774899b9767a48620acf31c94515df68fbf23",
+      "sha1": "96b14f2a414993a3f5249741c6453b965cb09296",
       "jars": {
         "client": {
           "version_id": "1.19.1",
