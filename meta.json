@@ -1,6 +1,30 @@
 {
-  "commit": "966bb21f058ae718985d9b86f33534839313a4fe",
+  "commit": "9cc89f0d20cb65263a2eb22d6d6646da534604b3",
   "minecraft": [
+    {
+      "id": "1.19.2-rc2",
+      "file_id": "1.19.2-rc2",
+      "release_time": "2022-08-04T15:19:44+00:00",
+      "sha1": "804eef5cfdfeb5bed184e6a14dce218b1a2a3969",
+      "jars": {
+        "client": {
+          "version_id": "1.19.2-rc2",
+          "version_file_id": "1.19.2-rc2",
+          "version_release_time": "2022-08-04T15:19:44+00:00",
+          "key": "client",
+          "sha1": "b7eee7ae9fc84f34833ac73225ec8db994a2b53e",
+          "url": "https://piston-data.mojang.com/v1/objects/b7eee7ae9fc84f34833ac73225ec8db994a2b53e/client.jar"
+        },
+        "server": {
+          "version_id": "1.19.2-rc2",
+          "version_file_id": "1.19.2-rc2",
+          "version_release_time": "2022-08-04T15:19:44+00:00",
+          "key": "server",
+          "sha1": "93649d39350077f998296138964e4591d4571140",
+          "url": "https://piston-data.mojang.com/v1/objects/93649d39350077f998296138964e4591d4571140/server.jar"
+        }
+      }
+    },
     {
       "id": "1.19.2-rc1",
       "file_id": "1.19.2-rc1",
