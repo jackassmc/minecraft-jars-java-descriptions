@@ -1,5 +1,27 @@
 {
   "versions": {
+    "22w42a": {
+      "client": {
+        "version_id": "22w42a",
+        "version_file_id": "22w42a",
+        "version_release_time": "2022-10-19T09:34:22+00:00",
+        "jar_key": "client",
+        "jar_sha1_meta": "7294caf715c4994b7b26f349c823391afb25c495",
+        "jar_sha1_local": "7294caf715c4994b7b26f349c823391afb25c495",
+        "jar_filename": "22w42a-client.jar",
+        "map_filename": "22w42a-client.tiny"
+      },
+      "server": {
+        "version_id": "22w42a",
+        "version_file_id": "22w42a",
+        "version_release_time": "2022-10-19T09:34:22+00:00",
+        "jar_key": "server",
+        "jar_sha1_meta": "008996e2d1e0d49d7f1b477f69106a6d23c5c103",
+        "jar_sha1_local": "d6909f780dd74ea9a7b191ec601d271b6a9dbec3",
+        "jar_filename": "22w42a-server.jar",
+        "map_filename": "22w42a-server.tiny"
+      }
+    },
     "1.19.2": {
       "client": {
         "version_id": "1.19.2",
