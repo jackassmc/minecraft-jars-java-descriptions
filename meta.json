@@ -1,11 +1,35 @@
 {
-  "commit": "1d00437f47ef903d35af5f9632b0df32361cbf7e",
+  "commit": "13ba587041a7285913f9b46bf7ff7208d44457dd",
   "minecraft": [
+    {
+      "id": "1.19.3-pre1",
+      "file_id": "1.19.3-pre1",
+      "release_time": "2022-11-22T13:59:37+00:00",
+      "sha1": "09a18e1a5da191a8984285fb80213db2a7115e7b",
+      "jars": {
+        "client": {
+          "version_id": "1.19.3-pre1",
+          "version_file_id": "1.19.3-pre1",
+          "version_release_time": "2022-11-22T13:59:37+00:00",
+          "key": "client",
+          "sha1": "57a23e575a34f24aa84f3d54fbf4ddf9940a2c24",
+          "url": "https://piston-data.mojang.com/v1/objects/57a23e575a34f24aa84f3d54fbf4ddf9940a2c24/client.jar"
+        },
+        "server": {
+          "version_id": "1.19.3-pre1",
+          "version_file_id": "1.19.3-pre1",
+          "version_release_time": "2022-11-22T13:59:37+00:00",
+          "key": "server",
+          "sha1": "046fee78cd174105cb9b958a8459c0405ab19959",
+          "url": "https://piston-data.mojang.com/v1/objects/046fee78cd174105cb9b958a8459c0405ab19959/server.jar"
+        }
+      }
+    },
     {
       "id": "22w46a",
       "file_id": "22w46a",
       "release_time": "2022-11-16T13:32:50+00:00",
-      "sha1": "be0814d74902c8660b8f648bcac528256934f8f5",
+      "sha1": "706cce9392eac55353909960d802a336376af41e",
       "jars": {
         "client": {
           "version_id": "22w46a",
@@ -29,7 +53,7 @@
       "id": "22w45a",
       "file_id": "22w45a",
       "release_time": "2022-11-09T14:30:16+00:00",
-      "sha1": "1c4fd98fb9b850d63a64b07e5df96abdd2d84cb2",
+      "sha1": "410ca479efb4711e0fad2daa1db9137a011f16c1",
       "jars": {
         "client": {
           "version_id": "22w45a",
