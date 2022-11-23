@@ -1,11 +1,35 @@
 {
-  "commit": "c98f0b93b7a0dbda25e17c4b583bc3b8dbbedc00",
+  "commit": "7b8d6fc5f67aaf25382c1ac2c36c675b460880e9",
   "minecraft": [
+    {
+      "id": "1.19.3-pre2",
+      "file_id": "1.19.3-pre2",
+      "release_time": "2022-11-23T16:12:25+00:00",
+      "sha1": "b8d425630aca8065479bd316979779ee1ccb5fd4",
+      "jars": {
+        "client": {
+          "version_id": "1.19.3-pre2",
+          "version_file_id": "1.19.3-pre2",
+          "version_release_time": "2022-11-23T16:12:25+00:00",
+          "key": "client",
+          "sha1": "15308e6b590de13da126a7347eb8b5040503099e",
+          "url": "https://piston-data.mojang.com/v1/objects/15308e6b590de13da126a7347eb8b5040503099e/client.jar"
+        },
+        "server": {
+          "version_id": "1.19.3-pre2",
+          "version_file_id": "1.19.3-pre2",
+          "version_release_time": "2022-11-23T16:12:25+00:00",
+          "key": "server",
+          "sha1": "f8a18aa1e7b658de909470f69553c53d8662dfbe",
+          "url": "https://piston-data.mojang.com/v1/objects/f8a18aa1e7b658de909470f69553c53d8662dfbe/server.jar"
+        }
+      }
+    },
     {
       "id": "1.19.3-pre1",
       "file_id": "1.19.3-pre1",
       "release_time": "2022-11-22T13:59:37+00:00",
-      "sha1": "09a18e1a5da191a8984285fb80213db2a7115e7b",
+      "sha1": "7490bb9cc6d25587fb77d5c7022f9bb0d847f017",
       "jars": {
         "client": {
           "version_id": "1.19.3-pre1",
@@ -29,7 +53,7 @@
       "id": "22w46a",
       "file_id": "22w46a",
       "release_time": "2022-11-16T13:32:50+00:00",
-      "sha1": "706cce9392eac55353909960d802a336376af41e",
+      "sha1": "1077941b7a5df6ff09ab51c6d1e92d6b7a584f8a",
       "jars": {
         "client": {
           "version_id": "22w46a",
@@ -53,7 +77,7 @@
       "id": "22w45a",
       "file_id": "22w45a",
       "release_time": "2022-11-09T14:30:16+00:00",
-      "sha1": "410ca479efb4711e0fad2daa1db9137a011f16c1",
+      "sha1": "ced7d88529b0859e69c6eae4319a5617fb80e80e",
       "jars": {
         "client": {
           "version_id": "22w45a",
