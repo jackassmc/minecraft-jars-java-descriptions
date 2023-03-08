@@ -1,5 +1,27 @@
 {
   "versions": {
+    "1.19.4-pre4": {
+      "client": {
+        "version_id": "1.19.4-pre4",
+        "version_file_id": "1.19.4-pre4",
+        "version_release_time": "2023-03-08T13:08:22+00:00",
+        "jar_key": "client",
+        "jar_sha1_meta": "9135c8201d3b4d62e96a085b969948f42efeafa5",
+        "jar_sha1_local": "9135c8201d3b4d62e96a085b969948f42efeafa5",
+        "jar_filename": "1.19.4-pre4-client.jar",
+        "map_filename": "1.19.4-pre4-client.tiny"
+      },
+      "server": {
+        "version_id": "1.19.4-pre4",
+        "version_file_id": "1.19.4-pre4",
+        "version_release_time": "2023-03-08T13:08:22+00:00",
+        "jar_key": "server",
+        "jar_sha1_meta": "711aa1f63c20650789e9740d66ff55c3e8e4f2ae",
+        "jar_sha1_local": "f6676c994402c727d50ae3b0bed91ec8efc11c1e",
+        "jar_filename": "1.19.4-pre4-server.jar",
+        "map_filename": "1.19.4-pre4-server.tiny"
+      }
+    },
     "1.19.4-pre3": {
       "client": {
         "version_id": "1.19.4-pre3",
