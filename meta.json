@@ -1,5 +1,5 @@
 {
-  "commit": "3f9519fc6bab8ba6fe0a159d0bcf8a0f8a444238",
+  "commit": "07bf06cea1f4532e66d9053a4b82e0aa0118f98c",
   "minecraft": [
     {
       "id": "23w12a",
@@ -557,7 +557,7 @@
       "id": "22w44a",
       "file_id": "22w44a",
       "release_time": "2022-11-02T13:15:43+00:00",
-      "sha1": "067978ac28490c8e6ebbb1871559e08aaa6f88bc",
+      "sha1": "b86f0baca1b6529c0ac0be7d81f0435593d23aeb",
       "jars": {
         "client": {
           "version_id": "22w44a",
@@ -581,7 +581,7 @@
       "id": "22w43a",
       "file_id": "22w43a",
       "release_time": "2022-10-26T11:55:59+00:00",
-      "sha1": "4c83a0711c2bd7b7ea50ee14ad856a574f294ab8",
+      "sha1": "c7046719bf5fa3db06897d764e94d0231077a026",
       "jars": {
         "client": {
           "version_id": "22w43a",
@@ -605,7 +605,7 @@
       "id": "22w42a",
       "file_id": "22w42a",
       "release_time": "2022-10-19T09:34:22+00:00",
-      "sha1": "8c41d96da2c5ddaf99952d021b971473cc2eec13",
+      "sha1": "d2a330542d012062f6e6cb0e030b894e2751e5c6",
       "jars": {
         "client": {
           "version_id": "22w42a",
