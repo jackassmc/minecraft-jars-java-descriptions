@@ -1,5 +1,93 @@
 {
   "versions": {
+    "23w16a": {
+      "client": {
+        "version_id": "23w16a",
+        "version_file_id": "23w16a",
+        "version_release_time": "2023-04-20T11:55:19+00:00",
+        "jar_key": "client",
+        "jar_sha1_meta": "10eb5a16d52959140ea2dba2fc4fb4bf177cacfa",
+        "jar_sha1_local": "10eb5a16d52959140ea2dba2fc4fb4bf177cacfa",
+        "jar_filename": "23w16a-client.jar",
+        "map_filename": "23w16a-client.tiny"
+      },
+      "server": {
+        "version_id": "23w16a",
+        "version_file_id": "23w16a",
+        "version_release_time": "2023-04-20T11:55:19+00:00",
+        "jar_key": "server",
+        "jar_sha1_meta": "4a8487f877eb4f3506978fb85faf41a08b570398",
+        "jar_sha1_local": "18e8687cc8c2c138fb62fe12089fd847527cae59",
+        "jar_filename": "23w16a-server.jar",
+        "map_filename": "23w16a-server.tiny"
+      }
+    },
+    "23w14a": {
+      "client": {
+        "version_id": "23w14a",
+        "version_file_id": "23w14a",
+        "version_release_time": "2023-04-05T12:05:17+00:00",
+        "jar_key": "client",
+        "jar_sha1_meta": "ed6e937ba9966c09b65a7d22016f25149542774e",
+        "jar_sha1_local": "ed6e937ba9966c09b65a7d22016f25149542774e",
+        "jar_filename": "23w14a-client.jar",
+        "map_filename": "23w14a-client.tiny"
+      },
+      "server": {
+        "version_id": "23w14a",
+        "version_file_id": "23w14a",
+        "version_release_time": "2023-04-05T12:05:17+00:00",
+        "jar_key": "server",
+        "jar_sha1_meta": "cb67d34c44013759bca77085ae42e3a7b37f265d",
+        "jar_sha1_local": "cfd7518013bfc4d569e68023d7f557ad89cddf71",
+        "jar_filename": "23w14a-server.jar",
+        "map_filename": "23w14a-server.tiny"
+      }
+    },
+    "23w13a_or_b": {
+      "client": {
+        "version_id": "23w13a_or_b",
+        "version_file_id": "23w13a_or_b",
+        "version_release_time": "2023-04-01T12:52:18+00:00",
+        "jar_key": "client",
+        "jar_sha1_meta": "8ebf103ef3c48ff40d4d002f44c5f7bc5d90e7e2",
+        "jar_sha1_local": "8ebf103ef3c48ff40d4d002f44c5f7bc5d90e7e2",
+        "jar_filename": "23w13a_or_b-client.jar",
+        "map_filename": "23w13a_or_b-client.tiny"
+      },
+      "server": {
+        "version_id": "23w13a_or_b",
+        "version_file_id": "23w13a_or_b",
+        "version_release_time": "2023-04-01T12:52:18+00:00",
+        "jar_key": "server",
+        "jar_sha1_meta": "6241fc14ce7a659f371683a72aa24c155f60cce1",
+        "jar_sha1_local": "a62fd6c9887351b2363cb374e54e11bc731efa90",
+        "jar_filename": "23w13a_or_b-server.jar",
+        "map_filename": "23w13a_or_b-server.tiny"
+      }
+    },
+    "23w13a": {
+      "client": {
+        "version_id": "23w13a",
+        "version_file_id": "23w13a",
+        "version_release_time": "2023-03-29T13:54:16+00:00",
+        "jar_key": "client",
+        "jar_sha1_meta": "3d0352a4a7ea2e849a7675b37b1c87e07884da50",
+        "jar_sha1_local": "3d0352a4a7ea2e849a7675b37b1c87e07884da50",
+        "jar_filename": "23w13a-client.jar",
+        "map_filename": "23w13a-client.tiny"
+      },
+      "server": {
+        "version_id": "23w13a",
+        "version_file_id": "23w13a",
+        "version_release_time": "2023-03-29T13:54:16+00:00",
+        "jar_key": "server",
+        "jar_sha1_meta": "701767d4d07aad992e3e2875ae5d1485cebf66e0",
+        "jar_sha1_local": "a75f241e3a449682e865d69c6c6976f38242ee7e",
+        "jar_filename": "23w13a-server.jar",
+        "map_filename": "23w13a-server.tiny"
+      }
+    },
     "23w12a": {
       "client": {
         "version_id": "23w12a",
