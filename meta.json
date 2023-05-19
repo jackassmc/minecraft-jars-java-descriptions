@@ -1,6 +1,30 @@
 {
-  "commit": "dd3ca724a660c1421b8ef50112dc6ce9d3f001b2",
+  "commit": "35bc1331c52706ab30ae893d1331968cdeaa54b7",
   "minecraft": [
+    {
+      "id": "1.20-pre4",
+      "file_id": "1.20-pre4",
+      "release_time": "2023-05-19T13:13:45+00:00",
+      "sha1": "a9b726ed1ac5b62b5d64db2af8bbdf4d16db53ae",
+      "jars": {
+        "client": {
+          "version_id": "1.20-pre4",
+          "version_file_id": "1.20-pre4",
+          "version_release_time": "2023-05-19T13:13:45+00:00",
+          "key": "client",
+          "sha1": "72887e0cfef5476eba3958a1eb70cbce9a60e6b6",
+          "url": "https://piston-data.mojang.com/v1/objects/72887e0cfef5476eba3958a1eb70cbce9a60e6b6/client.jar"
+        },
+        "server": {
+          "version_id": "1.20-pre4",
+          "version_file_id": "1.20-pre4",
+          "version_release_time": "2023-05-19T13:13:45+00:00",
+          "key": "server",
+          "sha1": "04b889e29aeffc23d2a3ebdd7e728184d9441e02",
+          "url": "https://piston-data.mojang.com/v1/objects/04b889e29aeffc23d2a3ebdd7e728184d9441e02/server.jar"
+        }
+      }
+    },
     {
       "id": "1.20-pre3",
       "file_id": "1.20-pre3",
