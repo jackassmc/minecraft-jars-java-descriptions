@@ -1,11 +1,35 @@
 {
-  "commit": "78470b41feb90ed3dafb3c4b59678b00cf541f12",
+  "commit": "3a1fe54238ba0109ff0bb7958e7848d52ab2a40a",
   "minecraft": [
+    {
+      "id": "1.20-pre7",
+      "file_id": "1.20-pre7",
+      "release_time": "2023-05-29T13:44:34+00:00",
+      "sha1": "956cfc1c415cedc210e7d6e5b1077413e47d4367",
+      "jars": {
+        "client": {
+          "version_id": "1.20-pre7",
+          "version_file_id": "1.20-pre7",
+          "version_release_time": "2023-05-29T13:44:34+00:00",
+          "key": "client",
+          "sha1": "30d5c2f0f3b10ca0eb7df3ef566eab4fe3bed672",
+          "url": "https://piston-data.mojang.com/v1/objects/30d5c2f0f3b10ca0eb7df3ef566eab4fe3bed672/client.jar"
+        },
+        "server": {
+          "version_id": "1.20-pre7",
+          "version_file_id": "1.20-pre7",
+          "version_release_time": "2023-05-29T13:44:34+00:00",
+          "key": "server",
+          "sha1": "ed6ddd61aeb1f529ef626fae9bcb0a5f51491f71",
+          "url": "https://piston-data.mojang.com/v1/objects/ed6ddd61aeb1f529ef626fae9bcb0a5f51491f71/server.jar"
+        }
+      }
+    },
     {
       "id": "1.20-pre6",
       "file_id": "1.20-pre6",
       "release_time": "2023-05-25T12:22:00+00:00",
-      "sha1": "f95fb5695f997d9a0266d0a39362aede4dc05590",
+      "sha1": "598a544cb0e24248de60b37b2e2b574935c38561",
       "jars": {
         "client": {
           "version_id": "1.20-pre6",
@@ -29,7 +53,7 @@
       "id": "1.20-pre5",
       "file_id": "1.20-pre5",
       "release_time": "2023-05-23T12:22:52+00:00",
-      "sha1": "00d284ed3dc8c3178035e18b8950a9b15e447fbf",
+      "sha1": "a4b753fe9a61990e11f82a292e48ba821723af2f",
       "jars": {
         "client": {
           "version_id": "1.20-pre5",
@@ -53,7 +77,7 @@
       "id": "1.20-pre4",
       "file_id": "1.20-pre4",
       "release_time": "2023-05-19T13:13:45+00:00",
-      "sha1": "b3bdab8a092d85099d8e899560943bc43d539ba8",
+      "sha1": "044c0870a0cc8363a2b1c5bfdb87cf957dbe0588",
       "jars": {
         "client": {
           "version_id": "1.20-pre4",
@@ -77,7 +101,7 @@
       "id": "1.20-pre3",
       "file_id": "1.20-pre3",
       "release_time": "2023-05-19T11:39:46+00:00",
-      "sha1": "958caab6d05a111860d27bdf4039f97438a28763",
+      "sha1": "b541867f92a5206d6219824781fca5606b0d2050",
       "jars": {
         "client": {
           "version_id": "1.20-pre3",
@@ -101,7 +125,7 @@
       "id": "1.20-pre2",
       "file_id": "1.20-pre2",
       "release_time": "2023-05-16T11:34:54+00:00",
-      "sha1": "17ccf23714bf4378c7bf04f638d25167536b90fb",
+      "sha1": "1b59a1263c4aa293c4e61730b6328fd03242bb94",
       "jars": {
         "client": {
           "version_id": "1.20-pre2",
@@ -125,7 +149,7 @@
       "id": "1.20-pre1",
       "file_id": "1.20-pre1",
       "release_time": "2023-05-10T12:19:34+00:00",
-      "sha1": "40495ad06ded29d3f32ff3bde568b40a6831744d",
+      "sha1": "ab9dd789ee0103683615ea8f7d9895222ac6e86f",
       "jars": {
         "client": {
           "version_id": "1.20-pre1",
@@ -149,7 +173,7 @@
       "id": "23w18a",
       "file_id": "23w18a",
       "release_time": "2023-05-03T11:29:26+00:00",
-      "sha1": "a52e3ff5e0fdca55df1961bdd96631de2d1ffaf9",
+      "sha1": "5a68f2692ff454e2235b30d69312316eec58e817",
       "jars": {
         "client": {
           "version_id": "23w18a",
@@ -173,7 +197,7 @@
       "id": "23w17a",
       "file_id": "23w17a",
       "release_time": "2023-04-26T12:09:48+00:00",
-      "sha1": "d014c2fc185417272f72c6df549ddee90f7b0f4f",
+      "sha1": "1061e47e13a37b9985b0961ac8ee4cba12c19055",
       "jars": {
         "client": {
           "version_id": "23w17a",
@@ -197,7 +221,7 @@
       "id": "23w16a",
       "file_id": "23w16a",
       "release_time": "2023-04-20T11:55:19+00:00",
-      "sha1": "c6c61553918819181fd0463c2cc5b67ddc7b62bb",
+      "sha1": "713eb50035840f55c551e0bf88f11c14072f8e52",
       "jars": {
         "client": {
           "version_id": "23w16a",
@@ -221,7 +245,7 @@
       "id": "23w14a",
       "file_id": "23w14a",
       "release_time": "2023-04-05T12:05:17+00:00",
-      "sha1": "3d9ce9669a5825220866f05c23b8edb8cfd1454b",
+      "sha1": "eb5969a74e3afa416f367887daea7144bc0f8480",
       "jars": {
         "client": {
           "version_id": "23w14a",
@@ -245,7 +269,7 @@
       "id": "23w13a_or_b",
       "file_id": "23w13a_or_b",
       "release_time": "2023-04-01T12:52:18+00:00",
-      "sha1": "0e6dfafe2ef426cc0b7b0c68f2217b16bad60e7d",
+      "sha1": "774a6f9ff1d05c79cc996ed0de94356ad2935a0f",
       "jars": {
         "client": {
           "version_id": "23w13a_or_b",
@@ -269,7 +293,7 @@
       "id": "23w13a",
       "file_id": "23w13a",
       "release_time": "2023-03-29T13:54:16+00:00",
-      "sha1": "9ec10bc6f9f08f3920eb5e7320ccf77ddfd9e8fc",
+      "sha1": "6c1d9790e0d114112702ce6165a12595572479f8",
       "jars": {
         "client": {
           "version_id": "23w13a",
@@ -293,7 +317,7 @@
       "id": "23w12a",
       "file_id": "23w12a",
       "release_time": "2023-03-22T13:28:42+00:00",
-      "sha1": "05b319e7fcc451b41b78ca94824265d7e52f7ffe",
+      "sha1": "1e1cc7d82a8b925ea68756a3e468a8fae60c0705",
       "jars": {
         "client": {
           "version_id": "23w12a",
@@ -317,7 +341,7 @@
       "id": "1.19.4",
       "file_id": "1.19.4",
       "release_time": "2023-03-14T12:56:18+00:00",
-      "sha1": "5c96ce3fe1589e06384cb1555d31323553e442a7",
+      "sha1": "7321f8bf62b97577b5642361c7c760041a6fe8a3",
       "jars": {
         "client": {
           "version_id": "1.19.4",
@@ -341,7 +365,7 @@
       "id": "1.19.4-rc3",
       "file_id": "1.19.4-rc3",
       "release_time": "2023-03-13T10:03:11+00:00",
-      "sha1": "20eae1c17de9f2a743f7b6c4a598c95abc158fa2",
+      "sha1": "117aeec45d0ee40fd29e57f7565d5eb03c9a09f2",
       "jars": {
         "client": {
           "version_id": "1.19.4-rc3",
@@ -365,7 +389,7 @@
       "id": "1.19.4-rc2",
       "file_id": "1.19.4-rc2",
       "release_time": "2023-03-10T12:42:54+00:00",
-      "sha1": "130fa40605e2573b5eae31b8a501d7879b109716",
+      "sha1": "f3e922286ac88acc1ae45a6e50e69654f036e802",
       "jars": {
         "client": {
           "version_id": "1.19.4-rc2",
@@ -389,7 +413,7 @@
       "id": "1.19.4-rc1",
       "file_id": "1.19.4-rc1",
       "release_time": "2023-03-09T14:35:50+00:00",
-      "sha1": "c1e82dddcbde7d1aa7cb6433cd2aa0faa4bfdbf7",
+      "sha1": "674bc0026f96af3f180e4197f005c983e409e057",
       "jars": {
         "client": {
           "version_id": "1.19.4-rc1",
@@ -413,7 +437,7 @@
       "id": "1.19.4-pre4",
       "file_id": "1.19.4-pre4",
       "release_time": "2023-03-08T13:08:22+00:00",
-      "sha1": "40d961353401c2284b5b99672eda9f5d50eb87b8",
+      "sha1": "34af35efab1fbe170cf761d5d790d928e0410456",
       "jars": {
         "client": {
           "version_id": "1.19.4-pre4",
@@ -437,7 +461,7 @@
       "id": "1.19.4-pre3",
       "file_id": "1.19.4-pre3",
       "release_time": "2023-03-01T14:11:05+00:00",
-      "sha1": "6ec90155b1282c0eb50e661044920d636daea3b4",
+      "sha1": "65d80db814851a80ec07147ff799ca3cc36a42c1",
       "jars": {
         "client": {
           "version_id": "1.19.4-pre3",
@@ -461,7 +485,7 @@
       "id": "1.19.4-pre2",
       "file_id": "1.19.4-pre2",
       "release_time": "2023-02-27T13:38:53+00:00",
-      "sha1": "9b578674f8b3c6d5ca625023dfa56b06ee436c9c",
+      "sha1": "46b811794cacd359712c7c1054688b7d81df1129",
       "jars": {
         "client": {
           "version_id": "1.19.4-pre2",
@@ -485,7 +509,7 @@
       "id": "1.19.4-pre1",
       "file_id": "1.19.4-pre1",
       "release_time": "2023-02-22T16:00:34+00:00",
-      "sha1": "eef4559f2e3d5be19e9a684d746b65e1d537a773",
+      "sha1": "b44483836b2b1dc35fa18c1fd0e63ab42a32d45e",
       "jars": {
         "client": {
           "version_id": "1.19.4-pre1",
@@ -509,7 +533,7 @@
       "id": "23w07a",
       "file_id": "23w07a",
       "release_time": "2023-02-15T14:32:29+00:00",
-      "sha1": "95d6d889b3d21afb838b3f096a9dfd6aabbe23cd",
+      "sha1": "e4f0b35e9cc0a27324b3877315a42bf6f5b9e4c3",
       "jars": {
         "client": {
           "version_id": "23w07a",
@@ -533,7 +557,7 @@
       "id": "23w06a",
       "file_id": "23w06a",
       "release_time": "2023-02-08T15:00:04+00:00",
-      "sha1": "72c66ced0070182493d71ed4db45e2401c4f21a8",
+      "sha1": "85944a6c37452e111a97b87e29b0b4520b922b9b",
       "jars": {
         "client": {
           "version_id": "23w06a",
@@ -557,7 +581,7 @@
       "id": "23w05a",
       "file_id": "23w05a",
       "release_time": "2023-02-01T14:20:33+00:00",
-      "sha1": "c832d4cdfb03102181e9be93db03b0d0965e1d3e",
+      "sha1": "5cdb1befcfbeebed2f75ec404e6d31834ba2670d",
       "jars": {
         "client": {
           "version_id": "23w05a",
@@ -581,7 +605,7 @@
       "id": "23w04a",
       "file_id": "23w04a",
       "release_time": "2023-01-24T15:19:06+00:00",
-      "sha1": "6b8d66e7df7b5e2d9c82b6b0f5c777578b3285ba",
+      "sha1": "61eb332fdedd5b0edf0a385ff3d4d155de469754",
       "jars": {
         "client": {
           "version_id": "23w04a",
@@ -605,7 +629,7 @@
       "id": "23w03a",
       "file_id": "23w03a",
       "release_time": "2023-01-18T13:10:31+00:00",
-      "sha1": "563f92fdd3c82d5427313a1f3388b48036444275",
+      "sha1": "24a871b7697ed20e5696e7d99486a9a4ac8efb61",
       "jars": {
         "client": {
           "version_id": "23w03a",
@@ -629,7 +653,7 @@
       "id": "1.19.3",
       "file_id": "1.19.3",
       "release_time": "2022-12-07T08:17:18+00:00",
-      "sha1": "c653277f2ef9f3d6e9b0356938bf02fb682f2fd6",
+      "sha1": "b41b58c16414be08acd6cdbf3532626f593c229a",
       "jars": {
         "client": {
           "version_id": "1.19.3",
@@ -653,7 +677,7 @@
       "id": "1.19.3-rc3",
       "file_id": "1.19.3-rc3",
       "release_time": "2022-12-06T10:24:01+00:00",
-      "sha1": "6496c77e48c0b6031698245a1ce0d91b44b5e574",
+      "sha1": "85a797093cec3612e3e8830fdbadad7376ce8762",
       "jars": {
         "client": {
           "version_id": "1.19.3-rc3",
@@ -677,7 +701,7 @@
       "id": "1.19.3-rc2",
       "file_id": "1.19.3-rc2",
       "release_time": "2022-12-05T13:21:34+00:00",
-      "sha1": "60a4da2ad54800acd21c988d25d0fee52679b210",
+      "sha1": "35e075dfddc6fb1c035c72698701d92e861d51d9",
       "jars": {
         "client": {
           "version_id": "1.19.3-rc2",
@@ -701,7 +725,7 @@
       "id": "1.19.3-rc1",
       "file_id": "1.19.3-rc1",
       "release_time": "2022-12-01T13:45:18+00:00",
-      "sha1": "812bab0bd91b7a6a54b1419324f95b57a28b92df",
+      "sha1": "95b221a26796cf6a1952d8e89dea632dca1ac461",
       "jars": {
         "client": {
           "version_id": "1.19.3-rc1",
@@ -725,7 +749,7 @@
       "id": "1.19.3-pre3",
       "file_id": "1.19.3-pre3",
       "release_time": "2022-11-29T14:28:08+00:00",
-      "sha1": "35d2e21d71d14b1cfae0903fdf8adbf5c340785e",
+      "sha1": "264c191ea0c5ad346c9d17db044637a009df4879",
       "jars": {
         "client": {
           "version_id": "1.19.3-pre3",
@@ -749,7 +773,7 @@
       "id": "1.19.3-pre2",
       "file_id": "1.19.3-pre2",
       "release_time": "2022-11-23T16:12:25+00:00",
-      "sha1": "33604ce7ae8e132c1b1534e3b263568c73e3d202",
+      "sha1": "1e4c677b46730af724ef3f6a3ee83874ac3d8042",
       "jars": {
         "client": {
           "version_id": "1.19.3-pre2",
@@ -773,7 +797,7 @@
       "id": "1.19.3-pre1",
       "file_id": "1.19.3-pre1",
       "release_time": "2022-11-22T13:59:37+00:00",
-      "sha1": "0c46a3f043fba270cb13161c78ffa08dfb0aada2",
+      "sha1": "9fe9c299180b603705dfe077238e7c67ad374e91",
       "jars": {
         "client": {
           "version_id": "1.19.3-pre1",
@@ -797,7 +821,7 @@
       "id": "22w46a",
       "file_id": "22w46a",
       "release_time": "2022-11-16T13:32:50+00:00",
-      "sha1": "c90d929736d23615b11fb5b130a34b3b703a2f29",
+      "sha1": "7cc8cf0b610bd0b2600cd9ea542c2faa8bccc689",
       "jars": {
         "client": {
           "version_id": "22w46a",
@@ -821,7 +845,7 @@
       "id": "22w45a",
       "file_id": "22w45a",
       "release_time": "2022-11-09T14:30:16+00:00",
-      "sha1": "efb5bbf0111846f6aac69a28506c1325e107bd91",
+      "sha1": "17088879ead29aadfe925be746adac66478a549f",
       "jars": {
         "client": {
           "version_id": "22w45a",
@@ -845,7 +869,7 @@
       "id": "22w44a",
       "file_id": "22w44a",
       "release_time": "2022-11-02T13:15:43+00:00",
-      "sha1": "74805e753d47f1e6ccc4732278469b24dcc1a02b",
+      "sha1": "cf5de078cd670c89bfdcfe0b9a6ebce753548200",
       "jars": {
         "client": {
           "version_id": "22w44a",
@@ -869,7 +893,7 @@
       "id": "22w43a",
       "file_id": "22w43a",
       "release_time": "2022-10-26T11:55:59+00:00",
-      "sha1": "f3f75b56a77d514c8f3f9fb140bc7abfbc973efb",
+      "sha1": "06a18aac3c14de1736f7ab1c5fbf22b20c862490",
       "jars": {
         "client": {
           "version_id": "22w43a",
@@ -893,7 +917,7 @@
       "id": "22w42a",
       "file_id": "22w42a",
       "release_time": "2022-10-19T09:34:22+00:00",
-      "sha1": "30eb7254ace72a37241213cb5c5849ad7d177f07",
+      "sha1": "d989d6256c17d05f9e1cbc289e2add1f75521ed4",
       "jars": {
         "client": {
           "version_id": "22w42a",
