@@ -1,5 +1,27 @@
 {
   "versions": {
+    "23w41a": {
+      "client": {
+        "version_id": "23w41a",
+        "version_file_id": "23w41a",
+        "version_release_time": "2023-10-11T12:32:46+00:00",
+        "jar_key": "client",
+        "jar_sha1_meta": "da1852dc65305e01db8262bad7450eddca55a5d0",
+        "jar_sha1_local": "da1852dc65305e01db8262bad7450eddca55a5d0",
+        "jar_filename": "23w41a-client.jar",
+        "map_filename": "23w41a-client.tiny"
+      },
+      "server": {
+        "version_id": "23w41a",
+        "version_file_id": "23w41a",
+        "version_release_time": "2023-10-11T12:32:46+00:00",
+        "jar_key": "server",
+        "jar_sha1_meta": "e3e4c46324ac42b1789f7ff6e895ae3c843a9819",
+        "jar_sha1_local": "aad0b4b735d3260fd77e7f7b06ad6e5f9d8a4250",
+        "jar_filename": "23w41a-server.jar",
+        "map_filename": "23w41a-server.tiny"
+      }
+    },
     "23w40a": {
       "client": {
         "version_id": "23w40a",
