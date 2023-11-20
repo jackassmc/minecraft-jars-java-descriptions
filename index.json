@@ -1,6 +1,26 @@
 {
-  "timestamp": "2023-11-16T16:16:28.497891+00:00",
+  "timestamp": "2023-11-20T18:15:22.591801+00:00",
   "mappings": {
+    "1.20.3-pre1": {
+      "client": {
+        "version_id": "1.20.3-pre1",
+        "version_file_id": "1.20.3-pre1",
+        "version_release_time": "2023-11-20T15:40:14+00:00",
+        "jar_key": "client",
+        "jar_sha1_meta": "6d2514a107afa3be0abeba720e2f96defab9310f",
+        "path": "mappings/1.20.3-pre1-client.tiny",
+        "url": "https://jackassmc.github.io/minecraft-jars-java-descriptions/mappings/1.20.3-pre1-client.tiny"
+      },
+      "server": {
+        "version_id": "1.20.3-pre1",
+        "version_file_id": "1.20.3-pre1",
+        "version_release_time": "2023-11-20T15:40:14+00:00",
+        "jar_key": "server",
+        "jar_sha1_meta": "e5db7e4884f55c4dd986ca7200145759169e0045",
+        "path": "mappings/1.20.3-pre1-server.tiny",
+        "url": "https://jackassmc.github.io/minecraft-jars-java-descriptions/mappings/1.20.3-pre1-server.tiny"
+      }
+    },
     "23w46a": {
       "client": {
         "version_id": "23w46a",
