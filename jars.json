@@ -1,5 +1,27 @@
 {
   "versions": {
+    "1.20.3": {
+      "client": {
+        "version_id": "1.20.3",
+        "version_file_id": "1.20.3",
+        "version_release_time": "2023-12-04T12:10:32+00:00",
+        "jar_key": "client",
+        "jar_sha1_meta": "b178a327a96f2cf1c9f98a45e5588d654a3e4369",
+        "jar_sha1_local": "b178a327a96f2cf1c9f98a45e5588d654a3e4369",
+        "jar_filename": "1.20.3-client.jar",
+        "map_filename": "1.20.3-client.tiny"
+      },
+      "server": {
+        "version_id": "1.20.3",
+        "version_file_id": "1.20.3",
+        "version_release_time": "2023-12-04T12:10:32+00:00",
+        "jar_key": "server",
+        "jar_sha1_meta": "4fb536bfd4a83d61cdbaf684b8d311e66e7d4c49",
+        "jar_sha1_local": "8dad8b4c71f212a3b30c25547d46e941e54be851",
+        "jar_filename": "1.20.3-server.jar",
+        "map_filename": "1.20.3-server.tiny"
+      }
+    },
     "1.20.3-rc1": {
       "client": {
         "version_id": "1.20.3-rc1",
