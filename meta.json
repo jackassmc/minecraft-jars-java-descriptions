@@ -1,6 +1,30 @@
 {
-  "commit": "e721581c1074dac2436e8b6ab5142813feb845f4",
+  "commit": "ca229dce977dae93143ec2e3758ad947845e5409",
   "minecraft": [
+    {
+      "id": "23w51b",
+      "file_id": "23w51b",
+      "release_time": "2023-12-18T15:39:14+00:00",
+      "sha1": "0ae7ed4a74099aed99e36f986c63510f214f232e",
+      "jars": {
+        "client": {
+          "version_id": "23w51b",
+          "version_file_id": "23w51b",
+          "version_release_time": "2023-12-18T15:39:14+00:00",
+          "key": "client",
+          "sha1": "de83457c22691e61cd800161182eda8395049bf2",
+          "url": "https://piston-data.mojang.com/v1/objects/de83457c22691e61cd800161182eda8395049bf2/client.jar"
+        },
+        "server": {
+          "version_id": "23w51b",
+          "version_file_id": "23w51b",
+          "version_release_time": "2023-12-18T15:39:14+00:00",
+          "key": "server",
+          "sha1": "d443ec98f3f3ee2dc92e0788d6d83d74844feb4f",
+          "url": "https://piston-data.mojang.com/v1/objects/d443ec98f3f3ee2dc92e0788d6d83d74844feb4f/server.jar"
+        }
+      }
+    },
     {
       "id": "23w51a",
       "file_id": "23w51a",
