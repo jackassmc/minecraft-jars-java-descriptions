@@ -1,5 +1,27 @@
 {
   "versions": {
+    "24w14potato": {
+      "client": {
+        "version_id": "24w14potato",
+        "version_file_id": "24w14potato",
+        "version_release_time": "2024-04-01T08:41:32+00:00",
+        "jar_key": "client",
+        "jar_sha1_meta": "b8bfe382f0f721d58a179035d90617e15909efb4",
+        "jar_sha1_local": "b8bfe382f0f721d58a179035d90617e15909efb4",
+        "jar_filename": "24w14potato-client.jar",
+        "map_filename": "24w14potato-client.tiny"
+      },
+      "server": {
+        "version_id": "24w14potato",
+        "version_file_id": "24w14potato",
+        "version_release_time": "2024-04-01T08:41:32+00:00",
+        "jar_key": "server",
+        "jar_sha1_meta": "846d3fe65b6dab3f8bf929a601e1f83d801d919c",
+        "jar_sha1_local": "8ca79e6dfdbb4789f8964f02477f759e1bd13ecf",
+        "jar_filename": "24w14potato-server.jar",
+        "map_filename": "24w14potato-server.tiny"
+      }
+    },
     "24w13a": {
       "client": {
         "version_id": "24w13a",
